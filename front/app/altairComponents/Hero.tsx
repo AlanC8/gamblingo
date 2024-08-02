@@ -12,7 +12,7 @@ const HeroSection = () => {
           Инвестируйте и зарабатывайте с легкостью
         </p>
         <button className="bg-amber-400 text-black px-6 py-3 rounded-lg text-lg ">
-          <Link href='invest'>Начать инвестирование</Link>
+          <Link href='invest'>Начать инвестировать</Link>
         </button>
       </div>
     </section>
